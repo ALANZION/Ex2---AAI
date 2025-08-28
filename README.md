@@ -1,5 +1,5 @@
 <H3>Name Alan Zion H</H3>
-<H3>Register No:21222324OOO4</H3>
+<H3>Register No:212223240004</H3>
 <H3>Experiment 2</H3>
 <H3>Date:26-08-2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
